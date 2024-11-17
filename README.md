@@ -1,2 +1,2 @@
 # manirajchahal-portfolio
-This is a repository combining all the knowledge I have gained to progress my career in Cybersecurity. 
+This is a repository combining all the projects I have made to progress my career in Cybersecurity. 
