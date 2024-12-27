@@ -1,2 +1,4 @@
-# manirajchahal-portfolio
-This is a repository combining all the projects I have made to progress my career in Cybersecurity. 
+# manirajchahal-keylogger
+This is a repository which allows the keystrokes to be read from a computer when the code is executed on said computer.
+
+Simply execute code on your machine, and all keystrokes are recorded until a specific key is pressed.
